@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "code": "A",
+      "price": 10.28,
+      "part": "LED Screen"
+    },
+    {
+      "id": 2,
+      "code": "B",
+      "price": 24.07,
+      "part": "OLED Screen"
+    },
+    {
+      "id": 3,
+      "code": "C",
+      "price": 33.30,
+      "part": "AMOLED Screen"
+    },
+    {
+      "id": 4,
+      "code": "D",
+      "price": 25.94,
+      "part": "Wide-Angle Camera"
+    },
+    {
+      "id": 5,
+      "code": "E",
+      "price": 32.39,
+      "part": "Ultra-Wide-Angle Camera"
+    },
+    {
+      "id": 6,
+      "code": "F",
+      "price": 18.77,
+      "part": "USB-C Port"
+    },
+    {
+      "id": 7,
+      "code": "G",
+      "price": 15.13,
+      "part": "Micro-USB Port"
+    },
+    {
+      "id": 8,
+      "code": "H",
+      "price": 20.00,
+      "part": "Lightning Port"
+    },
+    {
+      "id": 9,
+      "code": "I",
+      "price": 42.31,
+      "part": "Android OS"
+    },
+    {
+      "id": 10,
+      "code": "J",
+      "price": 45.00,
+      "part": "iOS OS"
+    },
+    {
+      "id": 11,
+      "code": "K",
+      "price": 45.00,
+      "part": "Metallic Body"
+    },
+    {
+      "id": 12,
+      "code": "L",
+      "price": 30.00,
+      "part": "Plastic Body"
+    }
+  ]
+  
